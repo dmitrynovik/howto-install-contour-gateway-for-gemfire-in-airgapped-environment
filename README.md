@@ -7,7 +7,6 @@ Make sure you have the following Docker images in your private registry
       quay.io/jetstack/cert-manager-cainjector:v1.11.0
       quay.io/jetstack/cert-manager-controller:v1.11.0
       quay.io/jetstack/cert-manager-webhook:v1.11.0
-      registry.k8s.io/coredns/coredns:v1.10.1
       registry.tanzu.vmware.com/pivotal-gemfire/vmware-gemfire:10.0.1
       registry.tanzu.vmware.com/tanzu-gemfire-for-kubernetes/gemfire-controller:2.3.0
 	  
